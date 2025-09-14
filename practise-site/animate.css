@@ -1,0 +1,57 @@
+/* nav a:hover{
+    background-color: rgb(87, 77, 64);
+} */
+
+.container-ul li:hover{
+    border-bottom: 2px solid rgb(218, 197, 167);
+    
+    animation:  1s ease-in 0.1ms   forwards;
+}
+
+
+
+
+
+#art22:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+}
+
+#art222:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+    transform: rotate(50deg);
+    transition-duration: 0.7s;
+    transition-delay: 0.11s;
+    
+}
+
+#art23:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+}
+
+#art232:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+    transform: rotate(50deg);
+    transition-duration: 0.7s;
+    transition-delay: 0.11s;
+    
+}
+
+#art24:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+}
+
+#art242:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+    transform: rotate(50deg);
+    transition-duration: 0.7s;
+    transition-delay: 0.11s;
+    
+}
+
+
+.pp #arrow:hover{
+    background-color: rgb(218, 197, 167, 0.03);
+    transform: rotate(0.1deg);
+    transition-duration: 0.7s;
+    transition-delay: 0.11s;
+}
